@@ -2,7 +2,7 @@
  False,
  False,
  True,
- 'c:\\users\\administrator\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ 'img\\ard.ico',
  None,
  False,
  False,
@@ -49,7 +49,7 @@
  [],
  False,
  False,
- 1622166158,
+ 1622179465,
  [('runw.exe',
    'c:\\users\\administrator\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
